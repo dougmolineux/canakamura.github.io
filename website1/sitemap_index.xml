@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.bangorchildrensdentistry.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://www.bangorchildrensdentistry.com/post-sitemap.xml</loc>
+		<loc>https://canakamura.github.io/website1/post-sitemap.xml</loc>
 		<lastmod>2016-05-06T13:42:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.bangorchildrensdentistry.com/page-sitemap.xml</loc>
+		<loc>https://canakamura.github.io/website1/page-sitemap.xml</loc>
 		<lastmod>2016-12-29T17:23:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.bangorchildrensdentistry.com/attachment-sitemap.xml</loc>
+		<loc>https://canakamura.github.io/website1/attachment-sitemap.xml</loc>
 		<lastmod>2016-11-01T18:32:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.bangorchildrensdentistry.com/category-sitemap.xml</loc>
+		<loc>https://canakamura.github.io/website1/category-sitemap.xml</loc>
 		<lastmod>2016-05-06T13:42:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.bangorchildrensdentistry.com/author-sitemap.xml</loc>
+		<loc>https://canakamura.github.io/website1/author-sitemap.xml</loc>
 		<lastmod>2016-11-23T20:57:54+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
